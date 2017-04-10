@@ -10,11 +10,18 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.CustomerPriority__c</members>
         <members>Expense__c.Amount__c</members>
         <name>CustomField</name>
     </types>
     <types>
         <members>Expense__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Identity User</members>
+        <name>Profile</name>
     </types>
 </Package>
