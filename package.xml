@@ -3,10 +3,18 @@
     <version>39.0</version>
     <types>
         <members>ARApexClass1</members>
+        <members>TaskUtil</members>
+        <members>TaskUtilTest</members>
+        <members>TempConverter</members>
+        <members>TempConverterTest</members>
         <name>ApexClass</name>
     </types>
     <types>
         <members>Expense__c.Amount__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Expense__c</members>
+        <name>CustomObject</name>
     </types>
 </Package>
